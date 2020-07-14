@@ -8,14 +8,14 @@
 theme_version: 1.0.5
 
 # Site settings
-title:              Nubia
+title:              Marcos Santiago
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://nubia-jekyll.netlify.com/' # The base hostname & protocol for your site
-twitter:            https://twitter.com/aspirethemes
-facebook:           https://www.facebook.com/aspirethemes
-instagram:          https://www.instagram.com/aspirethemes
+twitter:            https://twitter.com/warcos
+facebook:           https://www.facebook.com/marcos.santiago
+instagram:          https://www.instagram.com/m4rcos
 
 markdown:  kramdown
 permalink: pretty

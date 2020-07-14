@@ -12,7 +12,7 @@ title:              Marcos Santiago
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://nubia-jekyll.netlify.com/' # The base hostname & protocol for your site
+url:                https://marcosstgo.github.io # The base hostname & protocol for your site
 twitter:            https://twitter.com/warcos
 facebook:           https://www.facebook.com/marcos.santiago
 instagram:          https://www.instagram.com/m4rcos
@@ -50,10 +50,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:     Ahmad Ajmi
+    name:     Marcos Santiago
     bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:    info@aspirethemes.com
-    website:  http://aspirethemes.com
-    github:   https://github.com/aspirethemes
-    twitter:  https://twitter.com/aspirethemes
+    gravatar: https://secure.gravatar.com/avatar/2a77f5cd64c24789c14756af4754389f?s=150
+    email:    hello@marcossantiago.com
+    website:  http://marcossantiago.com
+    github:   https://github.com/marcosstgo
+    twitter:  https://twitter.com/warcos

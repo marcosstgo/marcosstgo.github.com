@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chic by Petite
+featured: true
 author: Marcos
 tags: [Website, Wordpress, Blog]
 image: '/images/posts/25.jpg'

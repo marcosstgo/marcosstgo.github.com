@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
-image: '/images/pages/1.jpg'
+title: Sobre mi
+image: '/images/pages/marcos.jpg'
 ---
 
-You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Hola, mi nombre es Marcos Santiago, gracias por visitar mi página. Soy un desarrollador web autodidacta nacido y criado en Puerto Rico. Después de obtener mi maestría en ciencias hace unos años y trabajar en un rol de soporte técnico entre otras cosas, encontré mi verdadera pasión por el diseño gráfico y desarrollo web. Mis años de estar en la industria del diseño y desarrollo me he convertido en un comunicador fuerte, trabajador y jugador de equipo. También creo firmemente en el aprendizaje permanente y espero seguir creciendo como desarrollador.

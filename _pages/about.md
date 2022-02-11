@@ -21,6 +21,7 @@ Obtuve un bachillerato en ciencias de computadoras con una concentración en pro
    "Diseñador Web"
    "Artista Gráfico"
    "Fotógrafo"
+   "Creador de video"
   ]
 }
 {% endhighlight %}
